@@ -1,0 +1,7 @@
+streamlit>=1.22
+python-dotenv
+gtts
+pyttsx3
+pydub
+fpdf
+pillow
